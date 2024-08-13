@@ -51,4 +51,5 @@ Amend the projects array in the``playwright.config.ts`` to
 
 Amend the projects array in the``playwright.config.ts`` to operating system & browser verison of your choice.
 Capabilities can be generated using the [LambdaTest capabilities generator](https://www.lambdatest.com/capabilities-generator/) as per the test setup we require. 
+
 ![plot](capabalities_generator.png)
